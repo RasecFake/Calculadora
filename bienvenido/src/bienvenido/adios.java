@@ -1,6 +1,6 @@
 package bienvenido;
 
-public class Adios {
+public class adios {
 	public static void main(String[] Args) {
 			
 			System.out.println("Adios mundo!!!!!");
